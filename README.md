@@ -1,5 +1,5 @@
 # 💫 About Me:
-san diego coder inspired by my cat<br><br>b.s. biology
+san diego coder inspired by my cat<br><br>b.s. biology<br><br>business intelligence analysis cert
 
 
 # 💻 Tech Stack:
